@@ -2,3 +2,4 @@ test
 •ÒW
 git add
 git commit
+diff
